@@ -12,7 +12,7 @@ const SurveyOne = () => {
     const setFinalPage = () => {
         return(
             <main>
-                <h1>valeu mizera</h1>
+                <h1>valeu enois</h1>
             </main>
         )
     }

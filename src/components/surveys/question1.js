@@ -44,10 +44,9 @@ const json = {
             {
                 name: "pergunta 4",
                 type: "text",
-                inputType: "date",
+                inputType: "number",
                 title: "Idade",
                 isRequired: true,
-                autoComplete: "bdate"
             },
         ]
     },

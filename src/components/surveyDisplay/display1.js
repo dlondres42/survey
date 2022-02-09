@@ -11,9 +11,9 @@ const SurveyOne = () => {
 
     const setFinalPage = () => {
         return(
-            <main>
-                <h1>valeu enois</h1>
-            </main>
+            <body>
+                <h3>Obrigado por completar o questionário!</h3>
+            </body>
         )
     }
     return (
